@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<iframe src="https://grimbot.streamlit.app/"></iframe>
+<iframe width="1000" height="1500" src="https://grimbot.streamlit.app"></iframe>
