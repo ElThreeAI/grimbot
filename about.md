@@ -1,4 +1,9 @@
-# GRIMBot - A statistics tool for the grim dark future... where there is only Math!
+---
+layout: page
+title: About
+permalink: /about/
+order: 3
+---
 
 GRIMbot is an ElThree AI Original Product.
 
@@ -14,14 +19,14 @@ To successfully utlize GRIMbot, you'll first need to ensure that you have your t
 
 ###### Exploding 6's
 
-If your unit or weapon is savage enough to score bonus hits on the roll of a six, be sure to check the "Exploding Sixes" box to incorporate this into your calculation. Additionally, by clicking the "Exploding Sixes" box you will enable the even more ferocious "Double Exploding Sixes" box to be marked as well. Similarly, clicking both of these will allow for you to calculate your success probability for rolls which "explode" twice, or add two additional hits per roll, on a single roll of a six. 
+If your unit or weapon is savage enough to score bonus hits on the roll of a six, be sure to check the "Exploding Sixes" box to incorporate this into your calculation. Additionally, by clicking the "Exploding Sixes" box you will enable the even more ferocious "Double Exploding Sixes" box to be marked as well. Similarly, clicking both of these will allow for you to calculate your success probability for rolls which "explode" twice, or add two additional hits per roll, on a single roll of a six.
 
 ##### Wounding a Target
 
 Next, you will have to identify your wounding threshold. Don't forget to add any multipliers or other augmentations. Once you have a threshold identified adjusted to, you'll want to adjust this by clicking the "+" button in the box beneath "Wound Target".
 
 ##### Saves
- 
+
 
 You should have an armour threshold identified for preventing damage, you'll want to adjust this by clicking the "▼" dropdown button in the box beneath "Save Type".
 
@@ -31,11 +36,11 @@ Looking at your units weapon profile you'll need to account for the armour penet
 
 ##### Broken Armour
 
-If your Armour Penetration is strong enough to over power your targets save (if it exceeds a dice roll of six), then the "Armour Broken" Message will appear indicating that no save throw is being enabled. In terms of the calculation this will allow wounds to cut right through as damage. 
+If your Armour Penetration is strong enough to over power your targets save (if it exceeds a dice roll of six), then the "Armour Broken" Message will appear indicating that no save throw is being enabled. In terms of the calculation this will allow wounds to cut right through as damage.
 
-##### Damage 
+##### Damage
 
-Each weapon or unit should have a specific amount of damage it can inflict.  Once you have a value identified to change to, you'll want to adjust this by clicking the "+" button in the box beneath "Weapon Dmg." 
+Each weapon or unit should have a specific amount of damage it can inflict.  Once you have a value identified to change to, you'll want to adjust this by clicking the "+" button in the box beneath "Weapon Dmg."
 
 #### -Features-
 
@@ -49,7 +54,7 @@ If you'd like to augment the number of dice you are rolling, perhaps based on th
 
 ##### Damage Efficiency
 
-By selecting the Damage Efficieny box you will be enabled to enter in a point value for your weapon or unit. By doing this you will be enabled to see the damage given per point spent on the unit or weapon. 
+By selecting the Damage Efficieny box you will be enabled to enter in a point value for your weapon or unit. By doing this you will be enabled to see the damage given per point spent on the unit or weapon.
 
 
 ```python
