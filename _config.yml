@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elthreeai.github.io/grimbot/" # the base hostname & protocol for your site, e.g. http://example.com
 
-header_pages:
- - about.md
+# header_pages:
+#  - about.markdown
 
 # Build settings
 remote_theme: jekyll/minima

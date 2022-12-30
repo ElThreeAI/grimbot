@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-order: 1
 ---
 
 GRIMbot is an ElThree AI Original Product.
