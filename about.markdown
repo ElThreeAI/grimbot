@@ -54,8 +54,3 @@ If you'd like to augment the number of dice you are rolling, perhaps based on th
 ##### Damage Efficiency
 
 By selecting the Damage Efficieny box you will be enabled to enter in a point value for your weapon or unit. By doing this you will be enabled to see the damage given per point spent on the unit or weapon.
-
-
-```python
-
-```
