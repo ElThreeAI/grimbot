@@ -21,8 +21,8 @@
 title: Grimbot
 description: >- # this means to ignore newlines until "baseurl:"
   A Calculator for Warhammer 40,000
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://elthreeai.github.io/grimbot/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/grimbot/" # the subpath of your site, e.g. /blog
+url: "https://elthreeai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # header_pages:
 #  - about.markdown
